@@ -1,0 +1,8 @@
+build/bin
+node_modules
+frontend/dist
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
